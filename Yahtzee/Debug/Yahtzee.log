@@ -1,0 +1,5 @@
+﻿  main.c
+  fonctions.c
+d:\users\hugo\desktop\projet c\yahtzee\yahtzee\fonctions.c(25): warning C4133: 'initializing': incompatible types - from 'joueur *' to 'joueur *'
+  Generating Code...
+  Yahtzee.vcxproj -> D:\Users\Hugo\Desktop\Projet C\Yahtzee\Debug\Yahtzee.exe
